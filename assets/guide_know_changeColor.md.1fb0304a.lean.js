@@ -1,0 +1,1 @@
+import{o as t,c as n,d as e}from"./app.dd060d35.js";const o='{"title":"css颜色转webgl颜色","description":"","frontmatter":{},"relativePath":"guide/know/changeColor.md","lastUpdated":1630546434749}',a={},c=[e('',16)];a.render=function(e,o,a,l,g,s){return t(),n("div",null,c)};export{o as __pageData,a as default};
