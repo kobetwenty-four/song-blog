@@ -1,1 +1,0 @@
-import{o as t,c as n,d as e}from"./app.9e536525.js";const a='{"title":"在画布上刷底色","description":"","frontmatter":{},"headers":[{"level":3,"title":"在画布上刷底色","slug":"在画布上刷底色"}],"relativePath":"guide/know/two/drawColor.md","lastUpdated":1630548868732}',l={},o=[e('',14)];l.render=function(e,a,l,c,d,g){return t(),n("div",null,o)};export{a as __pageData,l as default};
